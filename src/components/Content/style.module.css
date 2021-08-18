@@ -1,0 +1,35 @@
+.search {
+  flex-flow: column;
+  text-align: left;
+}
+.row {
+  width: 30%;
+  flex-flow: column;
+  display: flex;
+  text-align: center;
+}
+
+.select {
+  z-index: 10;
+  width: auto;
+  margin-bottom: 2px;
+  margin-left: 50px;
+}
+.Back {
+  display: flex;
+  flex-flow: row;
+  width: 100%;
+  margin-left: 5%;
+}
+.div {
+  margin-top: 2%;
+  width: 25%;
+  text-align: left;
+}
+.div p {
+  text-align: right;
+}
+.div Button {
+  margin-top: 20px;
+  margin-left: 70%;
+}
